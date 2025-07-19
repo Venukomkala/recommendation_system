@@ -1,0 +1,51 @@
+movie_id,name,genre
+1,Inception,Sci-Fi
+2,Interstellar,Sci-Fi
+3,The Dark Knight,Action
+4,Pulp Fiction,Crime
+5,The Godfather,Crime
+6,Forrest Gump,Drama
+7,Fight Club,Drama
+8,The Matrix,Sci-Fi
+9,Gladiator,Action
+10,Titanic,Romance
+11,Avengers: Endgame,Action
+12,Iron Man,Action
+13,Black Panther,Action
+14,The Shawshank Redemption,Drama
+15,Joker,Crime
+16,The Prestige,Thriller
+17,Django Unchained,Western
+18,The Wolf of Wall Street,Comedy
+19,Parasite,Thriller
+20,Whiplash,Drama
+21,The Social Network,Drama
+22,La La Land,Romance
+23,Shutter Island,Thriller
+24,The Departed,Crime
+25,Mad Max: Fury Road,Action
+26,The Lion King,Animation
+27,Frozen,Animation
+28,Toy Story,Animation
+29,Coco,Animation
+30,Inside Out,Animation
+31,The Conjuring,Horror
+32,Get Out,Horror
+33,A Quiet Place,Horror
+34,Hereditary,Horror
+35,It,Horror
+36,Tenet,Sci-Fi
+37,Oppenheimer,Drama
+38,Avatar,Sci-Fi
+39,Avengers: Infinity War,Action
+40,Doctor Strange,Fantasy
+41,The Batman,Action
+42,Man of Steel,Action
+43,Wonder Woman,Action
+44,Aquaman,Action
+45,Shazam!,Fantasy
+46,Spider-Man: No Way Home,Action
+47,Spider-Man: Into the Spider-Verse,Animation
+48,Logan,Action
+49,Deadpool,Action
+50,X-Men: Days of Future Past,Action
